@@ -68,7 +68,8 @@ body{
     line-height: 25px;
 }
 .text {
-    padding-left: 30px;
+    padding-left: 50px;
+    margin-top: 200px;
   }
   .text p {
     text-align: left;
