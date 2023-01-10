@@ -5,8 +5,7 @@ html {
 body{
     background-color: #ebebeb;
     margin: 0;
-    background: url("images/dot-bg.svg") rgba(204, 204, 204, 0.3);
-    background-repeat: repeat;
+    background: url("images/dot-bg.svg") rgba(204, 204, 204, 0.3) no-repeat;
     background-size: 10%;
     background-blend-mode:multiply;
     padding: 0;
